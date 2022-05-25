@@ -77,6 +77,9 @@ ${response.instructions}.
 
 for additional questions you can email me at ${response.email}.
 
+view the video walkthrough here:
+
+https://drive.google.com/file/d/1Iypj1BjQQ1syqy39PLYqcIyIaxtJEq4_/view?usp=sharing
 
 
 

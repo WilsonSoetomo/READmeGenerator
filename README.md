@@ -1,5 +1,5 @@
 
-# Wilson's READme Generator
+# Wilson's readme homework
 
 # Table of contents:
 - [Description](#description)
@@ -12,19 +12,19 @@
 
 ## Description:
 
-This project is going to give the user several questions and take the input for the READme
+this is the description for my readme
 ## Installation:
 
-in the file director run node index
+not much just git the repo
 ## Usage:
 
-this project can be used to simplify the way a readme is made by quickly formatting it with questions.
+depends on how youd like to receive user input
 ## Credits:
 
-The following project has been done by: undefined
+The following project has been done by: Wilson
 ## Instructions:
 
-enter node index in the terminal and answer the questions accordingly.
+none.
 ## Github:
 
 -[View the Github profile here](https://github.com/wilson148)
